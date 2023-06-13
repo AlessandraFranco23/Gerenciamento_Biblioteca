@@ -1,0 +1,15 @@
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\bin\Debug\net8.0-windows\Gerenciamento_Biblioteca.exe
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\bin\Debug\net8.0-windows\Gerenciamento_Biblioteca.deps.json
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\bin\Debug\net8.0-windows\Gerenciamento_Biblioteca.runtimeconfig.json
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\bin\Debug\net8.0-windows\Gerenciamento_Biblioteca.dll
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\bin\Debug\net8.0-windows\Gerenciamento_Biblioteca.pdb
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\Gerenciamento_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\Gerenciamento_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\Gerenciamento_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\Gerenciamento_Biblioteca.AssemblyInfo.cs
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\Gerenciamento_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\Gerenciamento_Biblioteca.dll
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\refint\Gerenciamento_Biblioteca.dll
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\Gerenciamento_Biblioteca.pdb
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\Gerenciamento_Biblioteca.genruntimeconfig.cache
+C:\Users\Alessandra\Documents\Biblioteca\Gerenciamento_Biblioteca\obj\Debug\net8.0-windows\ref\Gerenciamento_Biblioteca.dll

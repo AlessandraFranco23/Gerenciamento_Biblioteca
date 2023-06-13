@@ -3,11 +3,11 @@ using System.Collections;
 
 namespace Models
 {
-    public class BibliotecaModel: IteratorAggregate
+    public class BibliotecaModel : IteratorAggregate
     {
         private List<Livro> livros = new List<Livro>();
 
-         public List<Livro> getItems()
+        public List<Livro> getItems()
         {
             return livros;
         }
@@ -17,7 +17,7 @@ namespace Models
             this.livros.Add(item);
         }
 
-        public  IEnumerator GetEnumerator()
+        public IEnumerator GetEnumerator()
         {
             return new LivroIterator(this);
         }

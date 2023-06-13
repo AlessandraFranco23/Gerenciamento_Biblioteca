@@ -3,22 +3,25 @@ using Views;
 using System;
 using System.Collections;
 
-namespace Controllers{
+namespace Controllers
+{
     public class BibliotecaController
     {
         private Models.BibliotecaModel bibliotecaModel;
-        private Views.BibliotecaView bibliotecaView;
 
-        public BibliotecaController(Models.BibliotecaModel model, Views.BibliotecaView view)
+        public BibliotecaController(Models.BibliotecaModel model)
         {
             bibliotecaModel = model;
-            bibliotecaView = view;
         }
 
-        public void MostrarLivros()
+        public BibliotecaModel MostrarLivros()
         {
-           
-            bibliotecaView.MostrarLivros(bibliotecaModel);
+            return bibliotecaModel;
+        }
+        
+        public void CadastrarLivro(string titulo, string autor)
+        {
+            bibliotecaModel.AddItem(new Livro(titulo, autor));
         }
     }
 }
